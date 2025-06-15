@@ -1,12 +1,69 @@
-# React + Vite
+# 💼 Ajit Andavarapu — Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio! This site showcases my work, skills, and projects across full stack web and mobile development.
 
-Currently, two official plugins are available:
+## 🚀 About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I'm a passionate full stack developer with experience in building responsive and high-performance applications using technologies like **React.js**, **Flutter**, **Node.js**, **MongoDB**, and more. I enjoy turning ideas into real-world solutions, whether it's crafting intuitive UIs or building robust backends.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```js
+const techStack = [
+  "React.js",
+  "Next.js",
+  "Flutter",
+  "Node.js",
+  "Express.js",
+  "MongoDB",
+  "MySQL",
+  "PostgreSQL",
+  "Python",
+  "Flask",
+  "OpenCV",
+  "TensorFlow",
+  "Firebase",
+  "Tailwind CSS",
+  "Git & GitHub",
+  "AWS"
+];
+````
+
+## 📂 Sections Included
+
+* **Home** – Introduction and overview
+* **About** – My background and interests
+* **Skills** – Tech stack and tools
+* **Projects** – Selected projects with links and descriptions
+* **Contact** – Ways to get in touch
+
+## 🌐 Live Demo
+
+[🔗 View Portfolio Website](https://ajitandavarapuportfolio.vercel.app/)
+
+## 📦 Setup Instructions
+
+To run the project locally:
+
+```bash
+# Clone the repo
+git clone https://github.com/yourusername/portfolio.git
+cd portfolio
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+> This project was built using [React.js](https://reactjs.org/) and styled with [Tailwind CSS](https://tailwindcss.com/).
+
+## 📈 Future Enhancements
+
+* Add a blog section
+* Dark/light theme toggle
+* CMS integration for project/blog updates
+* Animations and transitions using Framer Motion
+
+
