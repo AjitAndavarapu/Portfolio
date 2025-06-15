@@ -1,0 +1,25 @@
+Create a vite app for react js 
+    earlier we were using npx create-react-app <app-name>, but now it is being deprecated so we will be using the vite to create the react project.
+    - command -----  npm create vite@latest ./  -- --template react
+    npm install
+    npm run dev
+Configure the tailwing css
+    npm install -D tailwindcss@3 postcss autoprefixer
+    npx tailwindcss init -p
+    paste the content from tailwind css website to  the tailwind config file
+    and then for index.css file in the src folder
+
+    remove the app.css file as it not required for us the entire journey of development
+
+After all this head to the app.jsx file and delete  all the default code and use rafce for the boilerplate
+
+And then modify the root styling in the index.css file and copy the import from the google fonts website and paste in the index.css
+
+copy the assets from the zip file
+and them install react icons npm i react-icon
+
+
+
+Now lets us design the components for the porfolio.
+In the app.jsx folder set the background and use the code from bg.ibelick.com website
+create a components folder in the src folder
